@@ -12,7 +12,8 @@
 ### 成功第四步   
 按照其中的内容一步步去完成。如果正常的话你就可以做出一个比较简单的平面射击游戏啦！！！如下（当然这比较low）      
 ![](http://m.qpic.cn/psb?/V10EObJi22LuSA/IsOySFsye1iyN2OohkZAX8mkxUxoHp08T507Pkk2iOo!/b/dDUBAAAAAAAA&bo=CwJQAQAAAAACdws!&rf=viewer_4)      
- **我知道这个画质很差 我也很绝望** 
+ **我知道这个画质很差 我也很绝望**   
+  
 ![](http://a3.qpic.cn/psb?/V10EObJi22LuSA/*FDZaBx*x6Bxzs.A*sMtlnD9t4FPxPEs6BLdYwBUuaQ!/m/dFIBAAAAAAAAnull&bo=gAc4BAAAAAADB5k!&rf=photolist&t=5)   
 **然后你们的最后construct2的界面应该和这个差不多 ！！！**   
 ### 成功最后一步   
