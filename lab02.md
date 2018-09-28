@@ -6,7 +6,9 @@
 ### 成功第一步    
 首先我们需要下载 [construct2](https://www.scirra.com/manual/2/installing)  ， 就是上面（左边点一下就好啦，是不是很棒）这个东西啦！！！！
 ### 成功第二步    
-我们打开一个浏览器，然后复制这个网址>https://www.scirra.com/tutorials/37/beginners-guide-to-construct-2/page-7     
+我们打开一个浏览器，然后复制这个网址
+
+>https://www.scirra.com/tutorials/37/beginners-guide-to-construct-2/page-7     
 ### 成功第三步   
 仔细浏览其中的内容（不建议使用翻译 ，不要问我为什么。好吧 ，留下了英语辣鸡无助的眼泪！！！）
 ### 成功第四步   
@@ -17,7 +19,9 @@
 ![](http://a3.qpic.cn/psb?/V10EObJi22LuSA/*FDZaBx*x6Bxzs.A*sMtlnD9t4FPxPEs6BLdYwBUuaQ!/m/dFIBAAAAAAAAnull&bo=gAc4BAAAAAADB5k!&rf=photolist&t=5)   
 **然后你们的最后construct2的界面应该和这个差不多 ！！！**   
 ### 成功最后一步   
-# 打开一瓶快乐水，享受假期！！！！      
+# 打开一瓶快乐水，享受假期！！！！         
+
+
  ## ps 这就是我的教程，相信我，看那个攻略比看我自己手敲好的多,潘老师求放过   
  ## 最后祝大家国庆快乐  
  ![](https://img01.sogoucdn.com/app/a/100520093/e4da036d85862ab2-0b055871c6d0d2ee-bf56ccf5ab09ade4ea814b3aaec8cfd2.jpg)
