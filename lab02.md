@@ -8,7 +8,7 @@
 ### 成功第二步    
 我们打开一个浏览器，然后复制这个网址
 
->https://www.scirra.com/tutorials/37/beginners-guide-to-construct-2/page-7     
+>https://www.scirra.com/tutorials/37/beginners-guide-to-construct-2/page-7       
 ### 成功第三步   
 仔细浏览其中的内容（不建议使用翻译 ，不要问我为什么。好吧 ，留下了英语辣鸡无助的眼泪！！！）   
 
