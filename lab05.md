@@ -79,6 +79,8 @@
 
 ![](http://a3.qpic.cn/psb?/V10EObJi22LuSA/*FDZaBx*x6Bxzs.A*sMtlnD9t4FPxPEs6BLdYwBUuaQ!/m/dFIBAAAAAAAAnull&bo=gAc4BAAAAAADB5k!&rf=photolist&t=5)  
 ## 游戏部分展示   
-  ![](http://m.qpic.cn/psb?/V10EObJi22LuSA/IsOySFsye1iyN2OohkZAX8mkxUxoHp08T507Pkk2iOo!/b/dDUBAAAAAAAA&bo=CwJQAQAAAAACdws!&rf=viewer_4)  
+
+  ![](http://m.qpic.cn/psb?/V10EObJi22LuSA/IsOySFsye1iyN2OohkZAX8mkxUxoHp08T507Pkk2iOo!/b/dDUBAAAAAAAA&bo=CwJQAQAAAAACdws!&rf=viewer_4)    
+  # <center> *谢谢！！*</center>  
 
 
