@@ -32,8 +32,8 @@
 16. [16-互联网时代的盈利模式](lab16)  
 
 ## 贪吃蛇代码
-1. [01.snakemove](snake_move)
-2. [02.snake_eat.1](snake_eat.1)
+1. [01.snakemove](snake_move) 源代码(snake_move1.)
+2. [02.snake_eat.1](snake_eat.1)  源代码(snake_eat)
 
 ## Markdown 语法演示
 
