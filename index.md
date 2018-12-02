@@ -31,9 +31,7 @@
 15. [15-智能蛇实验报告](lab15)
 16. [16-互联网时代的盈利模式](lab16)  
 
-## 贪吃蛇代码
-1. [01.snakemove](snake_move) 
-2. [02.snake_eat.1](snake_eat.1)  
+
 
 ## Markdown 语法演示
 
